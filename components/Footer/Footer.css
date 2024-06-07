@@ -1,0 +1,25 @@
+.footer{
+    background-color: rgb(233,236,239);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 0px;
+}
+
+.footer h1{
+    font-size: 50px;
+    font-weight: 300;
+    margin: 40px 0px;
+}
+
+.footer p{
+    padding: 10px 120px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 150;
+}
+.footer p span{
+    color: blue;
+    cursor: pointer;
+}

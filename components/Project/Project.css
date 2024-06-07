@@ -1,0 +1,50 @@
+.project{
+    background-color: rgb(233,236,239);
+    padding-top: 50px;
+}
+
+.project h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 300;
+  margin: 60px 0px;
+}
+
+.recent-project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px 30px;
+    gap: 60px;
+}
+
+.full-stack-projects{
+    width: 40%;
+    border: 1px solid black;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important
+}
+
+.full-stack-projects h2{
+    margin: 15px 0px;
+}
+.full-stack-projects p{
+    margin: 15px 0px;
+}
+
+.full-stack-projects a .logo{
+    font-size: 30px;
+}
+
+.full-stack-projects a{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+   /*  justify-content: center; */
+}
